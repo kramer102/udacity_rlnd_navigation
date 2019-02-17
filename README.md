@@ -38,9 +38,16 @@ pip install .
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ```
 
-5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
+5. Install unityagents
+```bash
+pip install unityagents
+```
+
+6. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
 ![Kernel][image2]
+
+
 
 ## More Info
 This project is part of the Udacity Deep Reinforcement Learning NanoDegree. See their [github repo](https://github.com/udacity/deep-reinforcement-learning/blob/master/README.md) for full intructions.
