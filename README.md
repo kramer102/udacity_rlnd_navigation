@@ -52,6 +52,8 @@ pip install unityagents
 ## More Info
 This project is part of the Udacity Deep Reinforcement Learning NanoDegree. See their [github repo](https://github.com/udacity/deep-reinforcement-learning/blob/master/README.md) for full intructions.
 
+Instructions for running on a server / aws can be adapted from this [medium post](https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639)
+
 # Project Details
 The Environment
 For this project, an agent is trained to navigate (and collect bananas!) in a large, square world.
